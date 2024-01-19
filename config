@@ -1,0 +1,11 @@
+# vi: ft=yaml
+# SSH Configs
+ssh_configs:
+  ssh_host: 192.168.1.125
+  ssh_user: root
+  ssh_passwd: <rm_password> #figure out how to call to pass for this or something similar
+  ssh_bin: sshpass # preferred binary. Program defaults to normal ssh, but then the user needs to enter their password manually
+
+# Defaults
+defaults:
+  remarkable_paper_dir: "/Papers"

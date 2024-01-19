@@ -1,0 +1,21 @@
+abstract: This is an abstract
+author: Surname1, Given1 and Surname2, Given2
+author_list:
+- family: Surname1
+  given: Given1
+- family: Surname2
+  given: Given2
+files: # Gives relative path to info.yaml file (usually same dir)
+- test.pdf
+language: en
+month: Jan
+papis_id: 16546a350ab3ca8b23b861eb2727ec9f
+ref: ref1
+shorttitle: TestTitle
+tags:
+- protect_ip
+time-added: 2023-02-20-13:29:17
+title: 'Test Title'
+type: techreport
+urldate: '1970-01-01'
+year: '1970'

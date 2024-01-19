@@ -1,0 +1,17 @@
+# vi: ft=sh
+
+source ./remarkable-file-functions/functions
+
+destination="$1"
+metadata_file="$2"
+content_file="$3"
+pdf_file="$4"
+pdf_name="$5"
+
+paper_uuid=$(new_uuid)
+
+dir_uuid=$(rm_mkdir $destination)
+
+cp "$pdf_file" $xochitl_loc/$paper_uuid.pdf
+create_doc_metadata "$paper_uuid" "$dir_uuid" "$pdf_name" "$xochitl_loc" "$metadata_file"
+create_doc_content "$paper_uuid" "" "$xochitl_loc" "$content_file"
