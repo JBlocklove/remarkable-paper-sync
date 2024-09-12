@@ -1,0 +1,4 @@
+pyyaml
+PyPDF2
+scp
+paramiko

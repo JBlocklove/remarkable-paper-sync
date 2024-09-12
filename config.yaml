@@ -1,0 +1,12 @@
+# Defaults
+defaults:
+  remarkable_paper_dir: "/Test"
+
+# SSH Configs
+ssh_configs:
+  ssh_host: 192.168.1.125
+  ssh_user: root
+  ssh_port: 22
+  ssh_key: /home/jason/.ssh/remarkable
+  remarkable_script: /home/root/remarkable-paper-sync/remarkable-add-paper
+
