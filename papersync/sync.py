@@ -99,14 +99,14 @@ def parse_papis_info(info_file):
 def create_doc_metadata_json(info_dict):
     """Create the document metadata JSON content."""
     metadata_dict = {
-        "deleted": "false",
+        "deleted": False,
         "lastModified": str(int(time.time())),
         "lastOpened": str(int(time.time())),
         "lastOpenedPage": 0,
-        "metadatamodified": "false",
+        "metadatamodified": False,
         "parent": "PARENT_UUID",
-        "pinned": "false",
-        "synced": "false",
+        "pinned": False,
+        "synced": False,
         "type": "DocumentType",
         "version": 2,
         "visibleName": info_dict["title"],

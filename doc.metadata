@@ -1,0 +1,13 @@
+{
+    "deleted": "false",
+    "lastModified": "1745870271",
+    "lastOpened": "1745870271",
+    "lastOpenedPage": 0,
+    "metadatamodified": "false",
+    "parent": "PARENT_UUID",
+    "pinned": "false",
+    "synced": "false",
+    "type": "DocumentType",
+    "version": 2,
+    "visibleName": "Robust LFSR-based Scrambling to Mitigate Stencil Attack on Main Memory"
+}

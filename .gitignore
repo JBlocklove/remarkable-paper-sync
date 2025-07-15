@@ -1,3 +1,5 @@
 venv/
 xochitl/
 *.pdf
+__pycache__/
+papersync/__pycache__/

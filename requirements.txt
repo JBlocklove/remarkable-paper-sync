@@ -2,3 +2,5 @@ pyyaml
 PyPDF2
 scp
 paramiko
+papis
+git+https://github.com/supersambo/papis-tui.git@main

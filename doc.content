@@ -1,0 +1,71 @@
+{
+    "documentMetadata": {
+        "authors": [
+            "; "
+        ],
+        "title": "Robust LFSR-based Scrambling to Mitigate Stencil Attack on Main Memory"
+    },
+    "tags": [
+        {
+            "name": "review",
+            "timestamp": "1745870271"
+        }
+    ],
+    "sizeInBytes": "3224636",
+    "originalPageCount": 20,
+    "pageCount": 20,
+    "pages": [
+        "6f82d89f-eccd-4de2-9943-3034c17f06f2",
+        "2e6ffc74-7d28-4c7a-a41d-719d724d529c",
+        "35cc2dd1-1ae9-41cf-b6be-5995a4595d7f",
+        "24d4fd42-d8aa-4202-8f6d-8dbc52a51d5d",
+        "7f417edf-d5f1-4fe6-95c0-855d15db0eee",
+        "7584d653-ef36-42a4-a142-b234a2c3b57a",
+        "7004d559-ab16-4cf8-9343-599331c0a9ea",
+        "18eb0b7b-770b-49f3-877e-0419f52a3844",
+        "48a0799d-3fe6-4606-b69c-d992316606c6",
+        "aa888f3d-ea08-4135-a80a-3182106b9b88",
+        "66ece300-858e-4a45-8afa-cf9e45af3e63",
+        "54c39461-66f3-4e39-a59c-4695efe0e567",
+        "af8ad213-4041-4d7c-8b2f-f5cadb17a401",
+        "c7b6ae23-9fb2-4d9d-9818-c8450de4a9c3",
+        "ecf84b80-bc70-421f-ad31-ffee084a3b29",
+        "89f0b3f3-7c29-4944-be31-826f2c545092",
+        "08a93ac3-8c68-4415-93bc-bfa2b6f7dcfc",
+        "c6b79086-8283-447c-9d9c-9591ec660b3a",
+        "f69e589e-a84e-4c87-b881-0c4490d40a68",
+        "4936f522-4c8d-4bfc-9d2e-bb10f0479e3f"
+    ],
+    "redirectionPageMap": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+    ],
+    "coverPageNumber": -1,
+    "dummyDocument": false,
+    "extraMetadata": {},
+    "fileType": "pdf",
+    "fontName": "",
+    "formatVersion": 1,
+    "lastOpenedPage": 0,
+    "lineHeight": -1,
+    "margins": 100,
+    "orientation": "portrait"
+}
